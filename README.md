@@ -1,0 +1,2 @@
+# hardcoredeveloper.github.io
+whack
