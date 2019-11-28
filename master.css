@@ -1,0 +1,53 @@
+
+
+* {
+	-webkit-font-smoothing: antialiased;
+}
+
+html, body {
+	background-image: url(https://66.media.tumblr.com/8df177c3e5892dceb8edd95fb78b1608/tumblr_pq4kxiktHM1uvsi7jo2_1280.gif);
+	background-size: cover;
+}
+
+
+
+.centerer {
+	position: absolute;
+	top: 0; right: 0; left: 0; bottom: 0;
+	height: 100%;
+	display: flex;
+  align-items: center;
+  justify-content: center;
+	background-blend-mode: difference;
+}
+
+.porthole {
+	width: 70vw;
+	height: auto;
+	mix-blend-mode: multiply;
+}
+
+.text {
+	font-size: 10vw;
+  font-weight: normal;
+  font-style: normal;
+	text-transform: lowercase;
+	letter-spacing: 3vw;
+	color: transparent;
+  width: 100%;
+	text-align: center;
+	mix-blend-mode: difference;
+}
+
+
+.two {
+	text-shadow: 0 0 0.1vw #FFFFFF;
+	animation: text-2 20s infinite
+	background-blend-mode: difference;
+}
+
+@keyframes text-2 {
+
+
+
+}
